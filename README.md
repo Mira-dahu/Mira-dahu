@@ -6,7 +6,7 @@
 ### <div align="center">Hello, I am Dahu, focus on full stack development. I share my projects on GitHub to showcase my skills and experience. I want to make a meaningful contribution to the open source community through my code and contributions. 👨‍💻 working remotely since 2021  🚀</div>  
   
 
-- 🔭 I’m currently working on [liaouanginting](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [liaoyuanshanhai](https://github.com/Mira-dahu/EcoFarmShop)  
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
