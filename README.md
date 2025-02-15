@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello, I'm Zhang Xinyan, a software engineering student at Dalian University of Technology focusing on full-stack development and AI applications. I share my projects on GitHub to showcase my skills and experience. 👨‍💻 Learning and growing since 2021 🚀</div>  
+### <div align="center">Hello, I'm Dahu, a software engineering student focusing on full-stack development and AI applications. I share my projects on GitHub to showcase my skills and experience. 👨‍💻 Learning and growing since 2021 🚀</div>  
   
 
 - 🔭 I'm currently working on [Liaoyuan Shanhai - Cloud Farming and Shopping Mini Program](https://github.com/Mira-dahu/EcoFarmShop)  
